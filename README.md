@@ -21,6 +21,6 @@ This project analyzes Superstore sales data to identify:
 ## Files Included
 - Business_Sales_Analytics_Report.docx
 - Cleaned_Superstore_Data.xlsx
-- Readme
+- README.md
 ## Outcome
 The project provides business insights and recommendations that can help improve sales strategy and decision-making.
